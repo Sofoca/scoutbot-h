@@ -230,3 +230,11 @@ rooms: 2.0
 property attributes: bad mit wanne, aufzug, rolladen
 hash: 8d286a4b194716bea96f688b63b65263c66075b0a588124ae6fadbba5669e8e7
 
+2026-05-13 10:09:52,918 [INFO] flats: Application sent:
+2-Zimmer-Wohnung in Friedrichshain an der Weberwiese
+zip code: 10243
+flat size: 52.18
+rooms: 2.0
+property attributes: bad mit wanne
+hash: 6602a6050c8e13874d5a619deea9d2856a9be1c8e8d7b46e03e1afeb8f7e0407
+
